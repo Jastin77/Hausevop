@@ -1,0 +1,19 @@
+.firstfooter {
+    padding-top: 180px;
+    background-color: $--primary-color;
+
+    &__head {
+        font-size: 36px;
+        line-height: 48px;
+        margin-bottom: 100px;
+        color: #D4C17F;
+    }
+
+
+    &__box {
+        align-items: center;
+        width: 1110px;
+        height: 358px;
+        background: #626262;
+    }
+}

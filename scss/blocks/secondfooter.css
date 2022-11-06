@@ -1,0 +1,44 @@
+.secondfoot {
+  background-color: #242b33;
+}
+.secondfoot__voprost {
+  margin-bottom: 61px;
+  font-size: 36px;
+  line-height: 48px;
+  color: #D4C17F;
+}
+.secondfoot__linkers {
+  display: flex;
+}
+.secondfoot__danniy {
+  width: 255px;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  color: #E7E7E7;
+}
+.secondfoot__vashimya {
+  width: 255px;
+  height: 50px;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  color: #E7E7E7;
+}
+.secondfoot__phone {
+  width: 255px;
+  height: 50px;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  color: #E7E7E7;
+}
+.secondfoot__region {
+  width: 255px;
+  height: 50px;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  background-color: #D4C17F;
+  color: #E7E7E7;
+}/*# sourceMappingURL=secondfooter.css.map */

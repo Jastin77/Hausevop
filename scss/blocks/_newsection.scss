@@ -1,0 +1,46 @@
+/*# sourceMappingURL=newsection.css.map */
+
+.decor{
+  height: 560px;
+  background-color: $--primary-color;
+
+  &__hause-list{
+    padding-top: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  }
+  &__items{
+    text-align: center;
+  }
+
+  &__text{
+    
+    width: 193px;
+    font-family: '$--third-font',serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+  &__sec-text{
+    width: 124px;
+    font-family: '$--third-font',serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  &__pic{
+    margin-bottom: 53px;
+  }
+
+}
+

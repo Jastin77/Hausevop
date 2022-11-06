@@ -1,0 +1,22 @@
+.vedio {
+    padding-top: 180px;
+    background-color: $--primary-color;
+    
+    &__circle {
+        position: relative;
+        width: 719px;
+        height: 650px;
+        left: 150px;
+        color: #626262;
+        background: linear-gradient(0deg, rgba(36, 43, 51, 0), rgba(36, 43, 51, 0)), url(/images/Rectangle\ sec.jpg), 
+        #242B33;
+    }
+
+    &__vector{
+        position: absolute;
+        top: 275px;
+        bottom: 275px;
+        left: 310px;
+        right: 309px;
+    }
+}
